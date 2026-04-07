@@ -554,4 +554,55 @@ Several UTL letters exist **primarily for borrowings**—the corresponding sound
 > 
 > UTL records the **result** of adaptation in a specific language, not the source. The same borrowing can appear differently: Turk. *enstitü*, Kaz. *institut*, Az. *institut*.
 
+### 1b. Assimilation of suffixes based on voicing (Kazakh)
+
+In Kazakh (and Kyrgyz), suffixes have different forms depending on the final sound of the stem:
+
+```
+After voiced consonants (B, V, G, Ğ, D, Ž, Z, J, L, M, N, Ŋ, R, Y) and vowels:
+  plural: -lar / -ler / -dar / -der
+  locative: -da / -de
+
+After voiceless consonants (K, Q, P, T, S, Š, C, Č, F, X):
+  plural: -tar / -ter
+  locative: -ta / -te
+```
+
+Examples:
+
+```
+institut  → final sound T (voiceless) → -tar (U=back) → instituttar
+universitet → final sound T (voiceless) → -ter (E=front) → universitetter
+telefon   → final sound N (voiced) → -dar (O=back) → telefondar
+kompjuter → final sound R (voiced) → -ler (E=front) → kompjuterler
+```
+
+### 2. Combinations with Y “Й”
+
+|Combination|Sound|Example  |Translation        |
+|---------|----|--------|---------------|
+|Ya / ya  |/ja/|*yana*  |“is burning”        |
+|Ye / ye  |/je/|*yer*   |“place” (dial.)|
+|Yi / yi  |/ji/|*yigit* |“hero”       |
+|Yo / yo  |/jo/|*yol*   |“road”       |
+|Yu / yu  |/ju/|*yurt*  |“yurt”         |
+|Yö / yö  |/jø/|*yörgek*|“blanket”       |
+|Yü / yü  |/jy/|*yüz*   |“face/hundred”     |
+|Yï / yï  |/jɯ/|*yïlqï* |“herd of horses”|
+
+### 2a. Diphthongs (v1.15)
+
+|Diphthong|Sound|Example |Translation  |Language                 |
+|-------|----|-------|---------|-------------------- -|
+|IY     |/ɪj/|*biyik*|“tall”|Kazakh            |
+|UW     |/ʊw/|*suw*  |“water”   |Kazakh            |
+|ÜW     |/ʏw/|*küwn* |“day”   |Kazakh            |
+|AW     |/aw/|*taw*  |“mountain”   |Kazakh            |
+|OW     |/ow/|*tow*  |“gathering”   |Kazakh            |
+|ÏY     |/ɯj/|*qïyïn*|“difficult”|Kazakh            |
+|AY     |/aj/|*ay*   |“moon”   |Tatar, Bashkir|
+|EY     |/ej/|*key*  |“put on”|Tatar            |
+|ÖY     |/øj/|*köy*  |“village”|Tatar            |
+|ÜY     |/yj/|*küy*  |“melody”|Kazakh, Tatar |
+
 
