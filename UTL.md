@@ -430,3 +430,36 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 
 -----
 
+## Symmetry of the UTL v1.15 Phonological System
+
+### Fricatives
+
+```
+              Dental        Sibilant       Velar
+Voiceless:       S /s/         Š /ʃ/         X /x/
+Voiced:      Z /z/         Ž /ʒ/         Ğ /ɣ/
+```
+
+### Affricates
+
+```
+              Dental        Sibilant
+Voiceless:       C /ts/        Č /tʃ/
+Voiced:      —             J /dʒ/
+```
+
+### Bashkir dental fricatives (extended)
+
+```
+              Interdental
+Voiceless:       Ŧ /θ/
+Voiced:      Đ /ð/
+```
+
+### Plosives and uvulars
+
+```
+              Velars      Uvulars
+Voiceless:       K /k/         Q /q/
+Voiced:      G /ɡ/
+```
