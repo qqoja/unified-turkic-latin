@@ -463,3 +463,25 @@ Voiced:      Đ /ð/
 Voiceless:       K /k/         Q /q/
 Voiced:      G /ɡ/
 ```
+
+### Diphthongs (v1.15)
+
+```
+Palatal (Y-glide):  IY /ɪj/ (front),  ÏY /ɯj/ (back)
+Labial (W-glide):   UW /ʊw/ (back),  ÜW /ʏw/ (front),  AW /aw/ (back),  OW /ow/ (back)
+```
+
+-----
+
+## UTL Spelling Rules
+
+### 1. Vowel Harmony
+
+Suffixes agree with the root according to the vowel series:
+
+```
+Back series:    A  Ï  O  U   →  suffix -da / -lar / -dan / -lï
+Front series:  E  I  Ö  Ü  Ä  →  suffix -de / -ler / -den / -li
+```
+
+In diphthongs, harmony is determined by the **vowel component**: AW, UW = back; ÜW = front; IY = front.
