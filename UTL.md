@@ -729,3 +729,25 @@ UTL is a unified alphabet consisting of 35 letters. Each language uses a **subse
 |Long vowels      |none                                          |
 |Extended letters   |none                                          |
 |Note          |Ä=/æ/ (corresponds to Azerbaijani Ə), Q and X are active|
+
+#### Turkmen
+
+|Parameter            |Value                                          |
+|--------------------|------------------------------------------------- -|
+|Vowels used|A, E, I, Ï, O, Ö, U, Ü, Ä                         |
+|All 35 letters         |are active (W=/w/ in *watan*)                         |
+|Diphthongs            |None                                               |
+|Long vowels      |**Yes** — 9 pairs: aa, ee, ii, ïï, oo, öö, uu, üü, ää|
+|Extended letters   |None                                               |
+|Note          |The only Oghuz language with W and long vowels      |
+
+#### Gagauz
+
+|Parameter            |Value                                    |
+|--------------------|------------------------------------------- -|
+|Used vowels|A, E, I, Ï, O, Ö, U, Ü, Ä                   |
+|Not used     |W (V is used), Q (no /q/), X (no /x/)|
+|Diphthongs            |none                                         |
+|Long vowels      |none                                         |
+|Extended letters   |none                                         |
+|Note          |C=/ts/ is active (Gagauz phoneme)          |
