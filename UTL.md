@@ -1,0 +1,85 @@
+# UTL — Unified Turkic Latin
+
+**Version 1.15 | Designed for compatibility with AI systems**
+
+> **Changes in v1.1:** Added the letter **J j** for /j/ “Й”; **Ž ž** replaced J for /ʒ/; duplicate İ removed; examples and correspondence tables corrected.
+> **Changes in v1.2:** added rule for loanwords — no markers, suffix determined by the last vowel of the word; added algorithm for determining loanwords for AI.
+> **Changes in v1.3:** Introduced a two-level architecture UTL-O / UTL-P; corrected conversion rules — native words and loanwords have different rules for diphthongization.
+> **Changes in v1.4:** **Ə ə** replaced with **Ä ä** — better tokenization in AI models, familiar from German/Finnish/Swedish corpora, more intuitive for humans.
+> **Changes in v1.5:** **Y y** /ɯ/ replaced with **ı** (i without a dot) — Turkish standard, excellent tokenization, no conflict with Latin Y=/j/.
+> **Changes in v1.6:** full transition to the hook — **Ç→Č**, **Ş→Š**, **Ğ→Ǧ**; a single diacritic for all modified consonants; **Ñ** replaced with **Ŋ** as the primary letter for /ŋ/; Rule 6 added — descending diphthongs AW/OW/EW are explicitly written with W.
+> **Changes in v1.7 — five critical fixes:**
+> 
+> 1. **ı → ï** — resolved the collision between uppercase I and ı (Turkish-i problem); uppercase letters are now unambiguous: I=/i/, Ï=/ɯ/.
+> 1. **C=/dʒ/ → Ĵ=/dʒ/**, **C=/ts/** — the voiced affricate now has a symmetrical counterpart to Č; C has been freed up for /ts/.
+> 1. **Ǧ=/ɣ/ → Ğ=/ɣ/** — the velar fricative has been removed from the hook system; breve = weakened velar.
+> 1. **C=/ts/ added** — the problem with Gagauz and Russian loanwords (center, price, police) has been resolved.
+> 1. **Ŧ=/θ/, Đ=/ð/ added** — Bashkir dental fricatives.
+>    **Changes in v1.8 — explicit diphthongs in UTL-O:**
+> 1. Kazakh, Kyrgyz, Tatar, and Bashkir diphthongs are written **explicitly** using existing letters: **IY** /ɪj/, **UW** /ʊw/, **ÜW** /ʏw/.
+> 1. The O→P conversion table for diphthongs has been **removed** — basic phonemics are fully handled in UTL-O.
+> 1. UTL-P is retained only for allophonic details (velarization, assimilation, intonation).
+> 1. Extended letters Ĭ/Ŭ **are not needed** — diphthongs resolve the І/И and Ұ/У issue without new symbols.
+> 1. The text is self-contained — it does not require a language tag for correct reading.
+>    **Changes in v1.9 — fixes:**
+> 1. Added the entry **Ү (borrowed) → Ü** to the Kazakh vowel table.
+> 1. Fixed errors in examples: *suwrgen* → **süwrgen** (Ү, not У), *güwn* (Kaz.) → **küwn** (К, not Г in Kazakh).
+> 1. All examples of Kazakh text have been rechecked and corrected.
+>    **Changes in v1.10 — review of all examples:**
+> 1. Example I corrected: *il* “year” → *il* “province”.
+> 1. Example N corrected: *ner* “thing” → *ne* “what” (Turkic).
+> 1. Example P corrected: *paš* “head” → *pïčaq* “knife”.
+> 1. Corrected example W: removed the “Kaz.” note from *watan*, added *waqït* “time”.
+> 1. Corrected Tatar: *Tuğan* → **Tugan** (no /ɣ/ in this word).
+> 1. Corrected Turkmen: *söjjärin* → **söjärin** (single J).
+> 1. Kazakh corrected: *jaqsï* → **žaqsï** (Ж=/ʒ/=Ž).
+> 1. Suffixation corrected: *institutter* → **instituttar** (U=back→-tar); *universitetler* → **universitetter** (after T→-ter, doubling); *cirkde/cirkler* → **cirkte/cirkter** (after K→-te/-ter).
+> 1. Example for Ŋ clarified: *aŋ* “consciousness/understanding”.
+>    **Changes in v1.11 — revision of language coverage:**
+> 1. **Removed** Chuvash and Yakut — isolated branches with zero mutual intelligibility, not in OTS, incomplete phoneme coverage.
+> 1. **Added** Karakalpak, Gagauz, Crimean Tatar — fully covered, high mutual intelligibility, use the Latin alphabet.
+> 1. Extended letters Ź, Ĺ (Yakut) retained as reserve, Ħ (Uyghur) retained.
+> 1. Justification for C=/ts/ changed: not a Chuvash phoneme, but preservation of information in loanwords.
+> 1. Languages grouped by branches: Oghuz, Kipchak, Karluk.
+>    **Changes in v1.12 — two-tier language coverage:**
+> 1. **UTL** (basic, 16 languages) and **UTL-Extended** (extended, 8+ languages) have been introduced.
+> 1. UTL: three branches of the Turkic languages — Oghuz (4), Kipchak (9), Karluk (2) + 1 mixed.
+> 1. UTL-Extended: Siberian (Yakut, Tuvan, Khakas, Altai, Shor, Dolgan), Bulgar (Chuvash), archaic Oghuz (Salars).
+> 1. **Nogai, Karachay-Balkar, and Kumyk** have been added to UTL.
+> 1. Extended letters have been assigned: Ŧ/Đ (Bashkir) and Ħ (Uyghur) — UTL; Ź/Ĺ — UTL-Extended.
+>    **Changes in v1.13 — comparative analysis and accumulated edits:**
+> 1. Added section **“Comparison with other projects”** — CTA 2024, Kazakh 2021, Uzbek 1995/2023, Turkmen 1999, Zamanälif, ULY, etc.
+> 1. **Karon** instead of “hook” in the description of diacritics + technical footnote about Ĵ (circumflex U+0134).
+> 1. ASCII collision **Ng vs N+G** — documented in the description of ASCII mode.
+> 1. Clarified: **Kumyk** uses V (not W) — Oghuz influence.
+
+> 1. The notation **“(Kir.)”** has been removed from the Kazakh entry in the correspondence table.
+>    **Changes in v1.14 — J/Y reassignment, diphthongoids, apostrophe:**
+> 1. **Y=/j/, J=/dʒ/** — the marginal Ĵ has been removed; Y=/j/ matches CTA, Turkish, and all Turkic Latin alphabets; J=/dʒ/ matches the English association.
+> 1. **Ĵ removed**, **Y added** → **35 base letters** (number unchanged: Ĵ→Y replacement).
+> 1. Diphthongs: IJ→**IY**, ÏJ→**ÏY** (J replaced by Y as a semivowel).
+> 1. ASCII: Ï → **I’** (apostrophe marks /ɯ/). Without apostrophe — I (context and vowel harmony resolve ~95% of cases).
+> 1. **Note on diphthongoids** UW/ÜW — weak glide, not a full semivowel.
+> 1. **Apostrophe for /ʔ/ removed** — a marginal phoneme in Arabic loanwords, not recorded in UTL.
+> 1. **Definition of glides** — explanation of the nature of Y and W as semivowels (glide).
+> 1. **Symmetry of Kazakh vowels** — І/Й/И ↔ Ұ/У̯/У, justification based on Baitursynov’s theory (5 base vowels + 4 allophones + 2 semivowels).
+> 1. **Cyrillic→UTL conversion table** — rules for Kazakh: И→IY, У→UW, Ү→ÜW in native words; И→I, У→U, Ү→Ü in loanwords.
+> 1. **Historical precedents** — the 1928 Baku alphabet (v=У/w/), the 1938 rule (ю=и+у), Batmanov 1939 (Kyrgyz long vowels), Yrk Bitig (a/ä, ı/i).
+> 1. **Exact IPA values of diphthongoids** — IY /ɪj/ (was /ij/), UW /ʊw/ (was /uw/).
+> 1. **Ġ removed** from the extended alphabet → 3 extended letters (Ŧ, Đ, Ħ). /ɢ/ — a dialectal variant, not a phoneme.
+> 1. **ASCII: Ï → I’** (apostrophe). The only letter requiring a marker. The apostrophe in ASCII = a technical symbol (marker for Ï and digraph separator), not a UTL letter.
+> 1. **Long vowels** — section expanded: Turkmen (9 long vowels, minimal pairs), Kyrgyz (6 long vowels, Batmanov 1939), Uyghur (long vowels in Arabisms). Doubling = phonemic length. Discrepancies with the Turkmen Latin alphabet are documented.
+> 1. **Diphthongs expanded** — Tatar and Bashkir diphthongs added (AY, EY, ÖY, ÜY). Summary of diphthongs by language.
+> 1. **Language profiles** — a section for each of the 16 languages: used/unused letters, diphthongs, long vowels, extended vowels. Summary table.
+>    **Changes in v1.15 — language profiles, long vowels, loanwords:**
+> 1. **Language profiles** — a section for each of the 16 languages: letters, W/V, diphthongs, long vowels, extended vowels. Summary table.
+> 1. **Long vowels expanded** — Turkmen (9 pairs with minimal pairs), Kyrgyz (6 pairs), Uyghur (Arabic loanwords). Discrepancy with the Turkmen Latin alphabet.
+> 1. **Extended diphthongs** — Tatar/Bashkir AY, EY, ÖY, ÜY. Summary by language.
+> 1. **Uyghur long vowels** — *aalam*, *kaatip* (Arabic loanwords, doubled).
+> 1. **Borrowed letters** — explanation of F, V, C, Ž as letters for loanwords. Degree of adaptation by language.
+> 1. **Historical precedents** — Baku 1928, 1938 rule, Batmanov 1939, Yrk Bitig.
+> 1. **ASCII: Ï → I’** — two-level ASCII (minimal/precise). Ħ→Hh added.
+> 1. **Ġ removed** → 3 extended (Ŧ, Đ, Ħ).
+> 1. **Removed** the section “Summary of all changes v1.6→v1.15” (duplicated the changelog).
+> 1. **Corrections:** Ï ASCII Y→I’, Kypchak table, ÜW=front row, *qarra*→*anna*, *su* (Turk.).
+
