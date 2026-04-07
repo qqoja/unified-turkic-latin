@@ -82,3 +82,34 @@
 > 1. **Removed** the section “Summary of all changes v1.6→v1.15” (duplicated the changelog).
 > 1. **Corrections:** Ï ASCII Y→I’, Kypchak table, ÜW=front row, *qarra*→*anna*, *su* (Turk.).
 
+-----
+
+## Development Principles
+
+UTL was created with five key requirements in mind:
+
+1. **Phonetic Comprehensiveness** — two-tier coverage of Turkic languages:
+- **UTL** (basic) — 16 languages from the three main branches:
+  - *Oghuz:* Turkish, Azerbaijani, Turkmen, Gagauz
+  - *Kipchak:* Kazakh, Kyrgyz, Karakalpak, Nogai, Karachay-Balkar, Kumyk, Tatar, Bashkir, Crimean Tatar
+  - *Karluk:* Uzbek, Uyghur
+- **UTL-Extended** — Siberian, Bulgar, and archaic Turkic languages (Yakut, Tuvan, Khakas, Altai, Chuvash, etc.)
+1. **AI-optimization** — minimal diacritics, maximum tokenizability; every sound is a predictable symbol.
+1. **Uniformity** — one sound = one letter in all languages without exception.
+1. **ASCII compatibility** — each letter has a unique ASCII equivalent for use in LLM prompts and databases.
+1. **Two-level architecture** — UTL-O for humans (phonemic notation), UTL-P for AI (allophonic details, generated automatically).
+
+-----
+
+## UTL Diacritics System v1.15
+
+Four types of diacritics—four types of modifications. Each is predictable:
+
+```
+Caron (ˇ)    = sibilant fricative or affricate: Š Ž Č
+Breve (˘)    = weakened velar:       Ğ
+Diaeresis (¨) = modified vowel:   Ö Ü Ä Ï
+Dash (-)    = dental fricative:         Ŧ Đ  (extended)
+```
+
+-----
