@@ -237,3 +237,35 @@ Common Turkic languages of the three main branches. Mutual intelligibility is no
 > **Total UTL:** ~186 million speakers, coverage: 35 basic letters + 3 extended (Ŧ, Đ, Ħ).
 
 -----
+
+### UTL-Extended — 8+ languages
+
+Isolated branches of Turkic languages with zero or minimal mutual intelligibility with UTL languages. Require additional letters and rules. Supported via reserve letters and language-specific extensions.
+
+#### Siberian Turkic — 6 languages
+
+|Language           |Speakers|Branch               |Unique requirements               |
+|---------------|--------|------------------- -|-------------------------------------|
+|Yakut (Sakha)|~450,000|Siberian           |/ðʲ/ → Ź, /lʲ/ → Ĺ, diphthongs uo/ie/üö|
+|Tuvan      |~280,000|Siberian           |pharyngealization, long vowels       |
+|Khakas      |~40,000 |Siberian           |palatal affricates                |
+|Altaic      |~55,000 |Siberian           |/dʲ/, /tʲ/                           |
+|Shor        |~2,500|Siberian           |same as Khakas                        |
+|Dolgan     |~1,000  |Siberian (Yakut)|same as Yakut                         |
+
+#### Bulgar branch — 1 language
+
+|Language     |Speakers|Unique features                             |
+|---------|--------|-------------------------------------------------- -|
+|Chuvash|~1 million|/ts/ phoneme, Ă /ə̆/, Ĕ /ɘ̆/ — reduced vowels|
+
+#### Archaic Oghuz — 1+ language
+
+|Language     |Speakers|Unique needs                           |
+|-------- -|--------|-------------------------------------------------|
+|Salars|~70,000 |Archaic Oghuz, Tibetan/Chinese influence|
+
+
+> **Total UTL-Extended:** ~1.9 million speakers. Reserve letters: Ź, Ĺ. Additional letters are determined during the development of a specific language profile.
+
+-----
