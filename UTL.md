@@ -377,3 +377,24 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 
 -----
 
+## Kazakh Vowels in UTL-O — Complete Chart
+
+|Kazakh|Context     |Sound|UTL-O |Type              |
+|---------|-------------|----|------|---------------- -|
+|**А**    |always       |/a/ |**A** |monophthong        |
+|**Ә**    |always       |/æ/ |**Ä** |monophthong        |
+|**Е**    |always       |/e/ |**E** |monophthong        |
+|**І**    |always       |/ɪ/ |**I** |short monophthong|
+|**И**    |native word |/ɪj/|**IY**|diphthong          |
+|**И**    |loanword|/i/ |**I** |monophthong        |
+|**Y**    |always       |/ɯ/ |**Ï** |monophthong        |
+|**O**    |always       |/o/ |**O** |monophthong        |
+|**Ö**    |always       |/ø/ |**Ö** |monophthong        |
+|**Ұ**    |always       |/ʊ/ |**U** |short monophthong|
+|**У**    |native word |/ʊw/|**UW**|diphthong          |
+|**У**    |loanword|/u/ |**U** |monophthong        |
+|**Ү**    |native word |/ʏw/|**ÜW**|diphthong          |
+|**Ү**    |loanword|/y/ |**Ü** |monophthong        |
+
+-----
+
