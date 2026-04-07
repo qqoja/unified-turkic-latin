@@ -511,3 +511,47 @@ The suffix is always determined by the **final vowel**:
 bult       →  final U (back)  →  bultta, bulttar
 institut   →  final U (back)  →  institutta, instituttar
 ```
+
+**Step 4 — The Diphthong Rule (v1.15)**
+In native words, vowels that form diphthongs are written explicitly (IY, UW, ÜW). In loanwords, only monophthongs are written (I, U). This serves as an additional marker of a word’s status:
+
+```
+suw    →  contains UW  →  native word (Kazakh “water”)
+summa  →  contains U   →  loanword
+biyik  →  contains IY  →  native word (Kazakh “tall”)
+bilet  →  contains I   →  loanword (Kazakh “ticket”)
+```
+
+|Feature         |Native word       |Borrowed word       |
+|----------------|-------------------|------------------- -|
+|Vowel harmony|preserved          |broken            |
+|Root structure|CV/CVC/CVCC        |atypical clusters |
+|Diphthongs        |IY, UW, ÜW         |only I, U, Ü      |
+|Suffix         |based on root vowel|based on final vowel|
+
+### 1a-suppl. Borrowings and “Borrowed” Letters
+
+Several UTL letters exist **primarily for borrowings**—the corresponding sounds are absent or extremely rare in native Turkic words:
+
+|Letter|Sound|Native words                          |History                                                                              |
+| -----|----|--------------------------------------|-------------------------------------------------- -----------------------------------|
+|**F**|/f/ |not in Kazakh, Kyrgyz           |Originally /p/: *pabrika* → *fabrika*. F became established via Russian                      |
+|**V**|/v/ |not in Kazakh (there is /w/)            |Originally /b/ or /w/: *vagon* → Kazakh colloquial *bagon*. V is an Oghuz and borrowed sound|
+|**C**|/ts/|not in all Turkic languages except Gagauz|Only in loanwords: *centr*, *policija*, *circus*                               |
+|**Ž**|/ʒ/ |not in most Turkic languages            |Only in loanwords: *žurnal*, *režim*. In Kazakh, native Ž = /dʒ/ = J          |
+
+
+> **UTL Principle:** The alphabet includes all letters necessary for **any** Turkic language in its modern state, including adapted loanwords. Each language uses its own subset (see “Language Profiles”).
+
+> **The degree of adaptation varies by language:**
+> 
+> |Language       |Approach               |Example “institute”                    |
+> |-----------|---------------------|------------------------------------ -|
+> |Turkish   |strong adaptation    |*enstitü* (phonetics changed)        |
+> |Kazakh   |moderate adaptation  |*institut* (form preserved)         |
+> |Uzbek   |minimal adaptation|*institut*                           |
+> |Turkmen|strong adaptation    |*institut* (but long vowels are not added)|
+> 
+> UTL records the **result** of adaptation in a specific language, not the source. The same borrowing can appear differently: Turk. *enstitü*, Kaz. *institut*, Az. *institut*.
+
+
