@@ -661,3 +661,43 @@ aa /aː/   ee /eː/   oo /oː/   öö /øː/   uu /uː/   üü /yː/
 Examples: *at* “horse” ↔ *aat* “name”; *tuu* “to give birth” ↔ *tu* “banner”.
 
 > **Note:** Short vowels in Kyrgyz are 3–5 times shorter than in Russian (Batmanov, 1939), which makes the short/long contrast particularly noticeable.
+
+#### Kazakh — No Long Vowels
+
+In standard Kazakh, vowel length is not phonemic. Vowel doubling is not used.
+
+#### Uyghur — Long Vowels in Arabic Loanwords
+
+In Uyghur, long vowels occur in words borrowed from Arabic and Persian. Vowel length distinguishes between the following words:
+
+```
+aalam  /aːlam/  “world”       ↔  alam  /alam/  “pain”
+kaatip /kaːtip/ “scribe”     ↔  katip /katip/  (no)
+taariix /taːriːx/ “history”
+```
+
+UTL transcribes this with doubling: *aalam*, *kaatip*, *taariix*. The same principle applies to Turkmen and Kyrgyz.
+
+#### Other languages
+
+In Turkish, Azerbaijani, Uzbek, Tatar, and Bashkir, vowel length is not phonemic and is not transcribed in UTL.
+
+### 6. The Letter W — Three Positional Functions
+
+|Position                     |W =               |Example                                           |Translation               |
+|----------------------------|------------------|------------- ------------------------------------|----------------------|
+|Beginning of a word (before a vowel)|/w/ consonant     |*watan* “homeland” (Turkmen), *waqït* “time” (Kazakh) |Turkmen, Kazakh|
+|After the vowels A, O         |/aw/, /ow/ diphthong|*taw* “mountain”, *žaw* “enemy”                       |Kazakh             |
+|After the vowel U, Ü         |/ʊw/, /ʏw/ diphthong|*suw* “water”, *küwn* “day”                      |Kazakh             |
+
+### 7. The letter Y — two positional functions
+
+|Position                     |Y =               |Example                              |Translation  |
+|----------------------------|------------------|------------------------------------|---------|
+|Word-initial / before a vowel|/j/ consonant     |*yol* “road”, *yurt* “yurt”       |all languages|
+|After the vowels I, Ï         |/ɪj/, /ɯj/ diphthong|*biyik* “tall”, *qïyïn* “difficult”|Kazakh|
+
+
+> **Note on diphthongoids:** W in the diphthongs UW/ÜW is realized as a weak glide (diphthongoid), not as a full semivowel /w/ as at the beginning of a word (*waqït*). Kazakh *suw* sounds closer to [sʊ] with a slight voicing at the end. Y in the diphthongs IY sounds more distinct. The UTL transcription is phonological: the distinctive function (native/borrowed) takes precedence over precise phonetics.
+
+-----
