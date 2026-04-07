@@ -296,10 +296,10 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 
 -----
 
-### Four Key Differences: I / Y / Y / U
+### Four key distinctions: I / Y / Y / U
 
-|Russian Sound|IPA|UTL    |Type                  |Examples                          |
-|------------|---|-------|-------------------- -|---------------------------------|
+|Russian sound|IPA|UTL    |Type                  |Examples                          |
+|------------|---|-------|---------------------|---------------------------------|
 |**И**       |/i/|**I i**|vowel, front    |*ip* “rope”, *bil* “know”     |
 |**Ы**       |/ɯ/|**Ï ï**|vowel, back      |*qïz* “girl”, *yïl* “year”     |
 |**Y**       |/j/|**Y y**|semivowel|*yol* “road”, *ay* “moon”|
