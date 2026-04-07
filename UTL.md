@@ -398,3 +398,35 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 
 -----
 
+## Correspondence Table with Existing Alphabets
+
+|Sound     |IPA |UTL   |Turkish|Azerbaijani|Kazakh   |Uzbek   |Uyghur (Latin)|
+|---------|----|------|------- -|---------------|------------|------------|----------------|
+|I        |/i/ |**I** |i       |i              |І           |i           |i               |
+|Y        |/ɯ/ |**Ï** |ı       |ı              |Y           |—           |—               |
+|J        |/j/ |**Y** |y       |y              |J           |y           |y               |
+|U        |/u/ |**U** |u       |u              |U           |u           |u               |
+|Diphthong IY |/ɪj/|**IY**|—       |—              |I           |—           |—               |
+|Diphthong UW |/ʊw/|**UW**|—       |—              |U           |—           |—               |
+|Diphthong ÜW |/ʏw/|**ÜW**|—       | —              |U           |—           |—               |
+|Diphthong AU |/aw/|**AW**|—       |—              |AU          |—           |—               |
+|Yu        |/ju/|**Yu**|yu      |yu             |Yu           |yu          |yu              |
+|Я        |/ja/|**Ya**|ya      |ya             |Я           |ya          |ya              |
+|Э/Ä      |/æ/ |**Ä** |—       |ə              |Ә           |—           |é               |
+|Ö        |/ø/ |**Ö** |ö       |ö              |Ө           |oʻ          |ö               |
+|Ü        |/y/ |**Ü** |ü       |ü              |—           |—           |ü               |
+|Ч        |/tʃ/|**Č** |ç       |ç              |Ч           |ch          |ch              |
+|Дж       |/dʒ/|**J** |c       |c              |Дж          |j           |j               |
+|Ц        |/ts/|**C** |—       |—              |Ц (borrowed)|—           |—               |
+|Ш        |/ʃ/ |**Š** |ş       |ş              |Ш           |sh          |sh              |
+|Ж        |/ʒ/ |**Ž** | —       |j              |Zh           |j (borrowed)|zh              |
+|X (fric.)  |/x/ |**X** |—       |x              |X           |x           |x               |
+|Ğ        |/ɣ/ |**Ğ** |ğ       |ğ              |Ğ           |gʻ          |gh              |
+|Q        |/q/ |**Q** |—       |q              |Q           |q           |q               |
+|Ō        |/ŋ/ |**Ō** |—       |—              |Ō           |ng          |ng              |
+|H (guttural) |/h/ |**H** |h       |h              |H (weak)   |h           |h               |
+|Ҫ (Bashkir)|/θ/ |**Ŧ** |—       |—              |—           |—           |—               |
+|Ҙ (Bashkir)|/ð/ |**Đ** |—       |—              |—           |—           |—               |
+
+-----
+
