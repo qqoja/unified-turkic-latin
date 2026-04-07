@@ -167,3 +167,29 @@ The UTL diphthong system is not an innovation—it has direct parallels in the h
 **Kyrgyz Grammar (Batmanov, 1939):** The Kyrgyz language has 14 vowel phonemes—8 short (a, e, o, ɵ, ɨ, i, u, y) and 6 long (aa, ee, oo, ɵɵ, uu, yy) . Long vowels are written by doubling—UTL supports this principle. Kyrgyz short vowels are 3–5 times shorter than Russian ones, which explains the diphthong-like pronunciation.
 
 ** Old Turkic (Yrk Bitig, ~10th century):** The runic script already distinguished back/front pairs: a/ä, ı/i, o/ö, u/ü—the foundation of the UTL vowel system. Garkavets’ transcription uses the symbols ŋ, ğ, š, ä, which correspond to UTL.
+
+### Diphthongs
+
+Two glides—**Y** and **W**—account for all diphthongs without the need for new letters:
+
+```
+Y marks a palatal glide:   IY /ɪj/ (front), ÏY /ɯj/ (back)
+W marks labial glide:    UW /ʊw/ (back), ÜW /ʏw/ (front), AW /aw/ (back), OW /ow/ (back)
+```
+
+Diphthongs are written explicitly in UTL-O. The text is self-contained without a language tag.
+
+### Rules for diphthongs in native words and loanwords
+
+|Context                 |Sound|UTL-O |Example              |
+|-------------------------|----|------|--------------------|
+|Native word, diphthong    |/ɪj/|**IY**|*biyik* “tall”   |
+|Native word, diphthong    |/ʊw/|**UW**|*suw* “water”        |
+|Native word, diphthong    |/ʏw/|**ÜW** |*küwn* “day” (Kaz.)|
+|Native word, diphthong    |/aw/|**AW**|*taw* “mountain”        |
+|Borrowed word, monophthong |/i/ |**I** |*institut*          |
+|Borrowed word, monophthong |/u/ |**U** |*universitet*       |
+|Any context, monophthong|/ɪ/ |**I** |*bil* “know” (Kaz.) |
+|Any context, monophthong|/ʊ/ |**U** |*bul* “this” (Kaz.)  |
+
+-----
