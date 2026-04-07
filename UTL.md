@@ -606,3 +606,58 @@ kompjuter → final sound R (voiced) → -ler (E=front) → kompjuterler
 |ÜY     |/yj/|*küy*  |“melody”|Kazakh, Tatar |
 
 
+> **Diphthongs by language:**
+> 
+> - **Kazakh, Kyrgyz, Karakalpak:** full set — IY, UW, ÜW, AW, OW, ÏY, AY, ÜY
+> - **Tatar, Bashkir:** descending diphthongs with Y — AY, EY, ÖY, ÜY, ÏY; with W — AW, ÄW
+> - **Oghuz (Turkish, Azerbaijani, Turkmen):** no diphthongs (monophthongs)
+> - **Uzbek:** no diphthongs in the literary language
+
+> **For AI — diphthong rule:**
+> 
+> - Y after a vowel = falling diphthong (palatal glide)
+> - W after a vowel = falling diphthong (labial glide)
+> - Y and W at the beginning of a word before a vowel = consonants /j/ and /w/
+
+### 3. Gemination
+
+Long consonants — by doubling: *katta* “big” (Uzbek), *anna* “mom” (Kazakh colloquial)
+
+### 4. Glottal stop
+
+The glottal stop /ʔ/ (Arabic ع) is a marginal phoneme found only in Arabic loanwords (Uzbek, Uyghur). It is not transcribed in UTL: *malum* “known,” *talim* “education.” In spoken language, /ʔ/ is usually not pronounced. When phonetic accuracy is required, the UTL-P level is used.
+
+### 5. Long vowels
+
+Vowel length is phonemic (distinguishes words) in Turkmen and Kyrgyz. UTL transcribes length by **doubling** the vowel letter:
+
+#### Turkmen — 9 Long Vowels
+
+In Turkmen, every short vowel has a long counterpart. Vowel length distinguishes between words:
+
+|Short|Long |Minimal pair                 |
+|-------|-------|------------------ ---------------|
+|a /a/  |aa /aː/|*at* “horse” ↔ *aat* “name”      |
+|e /e/  |ee /eː/|*el* “hand” ↔ *eel* “edge”       |
+|i /i/  |ii /iː/|*bil* “know” ↔ *biil* “waist”    |
+|o /o/  |oo /oː/|*gol* “hand” ↔ *gool* “lake”    |
+|u /u/  |uu /uː/|*gul* “slave” ↔ *guul* “flower”    |
+|ö /ø/  |öö /øː/|*öl* “wet” ↔ *ööl* “die”     |
+|ü /y/  |üü /yː/|*gün* “day” ↔ *güün* “sun”   |
+|ä /æ/  |ää /æː/|*är* “man” ↔ *äär* “morning”|
+|ï /ɯ/  |ïï /ɯː/|— (rare)                        |
+
+
+> **Differences from the Turkmen Latin alphabet:** In the official Turkmen Latin alphabet (1999), length is **encoded** in individual letters: *a* = /aː/ (long), *ä* = /æ/ and simultaneously short /a/. In UTL, length is recorded **explicitly** through doubling: *a* = /a/ (short), *aa* = /aː/ (long). The UTL principle: letter = quality phoneme, doubling = length. This is more unambiguous and universal.
+
+#### Kyrgyz — 6 long vowels
+
+Kyrgyz has 14 vowel phonemes: 8 short and 6 long (Batmanov, 1939). Long vowels are written with doubling:
+
+```
+aa /aː/   ee /eː/   oo /oː/   öö /øː/   uu /uː/   üü /yː/
+```
+
+Examples: *at* “horse” ↔ *aat* “name”; *tuu* “to give birth” ↔ *tu* “banner”.
+
+> **Note:** Short vowels in Kyrgyz are 3–5 times shorter than in Russian (Batmanov, 1939), which makes the short/long contrast particularly noticeable.
