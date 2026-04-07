@@ -269,3 +269,29 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 > **Total UTL-Extended:** ~1.9 million speakers. Reserve letters: Ź, Ĺ. Additional letters are determined during the development of a specific language profile.
 
 -----
+
+## The UTL Alphabet — Complete Chart
+
+### Vowels (9 letters)
+
+|UTL    |IPA|Row     |Occlusion|Examples                          |ASCII|
+|-------|---|--------|----------- -|---------------------------------|-----|
+|**A a**|/a/|back  |none         |*at* “horse”, *ana* “mother”      |A a  |
+|**E e**|/e/|front|none         |*el* “hand”, *er* “man”      |E e  |
+|**I i**|/i/|front|none         |*ip* “rope”, *il* “province” |I i  |
+|**Ï ï**|/ɯ/|back  |no         |*qïz* “girl”, *yïl* “year”     |I’ i’|
+|**O o**|/o/|back  |yes          |*on* “ten”, *ot* “grass”      |O o  |
+|**U u**|/u/|back  |yes          |*un* “flour”, *bul* “this” (Kaz.)  |U u  |
+|**Ö ö**|/ø/|front|yes          |*öz* “self”, *köz* “eye”         |Oe oe|
+|**Ü ü**|/y/|front|yes          |*üč* “three”, *gün* “day”         |Ue ue|
+|**Ä ä**|/æ/|front|no         |*äl* (Az.) “hand”, *äkin* “sowing”|Ae ae|
+
+
+> **Note for AI — vowel harmony:**
+> 
+> - Back row: **A, Ï, O, U** → suffixes with back vowels
+> - Front row: **E, I, Ö, Ü, Ä** → suffixes with front vowels
+> 
+> Example: *kitap* + locative → *kitapta* (A-row) / *ev* + locative → *evde* (E-row)
+
+-----
