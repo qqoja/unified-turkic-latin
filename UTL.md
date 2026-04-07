@@ -315,3 +315,35 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 > - The Turkish-i problem has been completely resolved.
 
 -----
+
+
+### Consonants (26 letters)
+
+|UTL    |IPA  |Sound                           |Examples                                         |ASCII|
+|-------|-----|-------------------------------|------------ ------------------------------------|-----|
+|**B b**|/b/  |voiced labial-labial           |*bar* “to eat”, *bala* “child”                  |B b  |
+|**C c**|/ts/ |voiceless dental affricate        |*centr* “center”, *policija* “police” (loanword)|C c  |
+|**Č č**|/tʃ/ |voiceless sibilant affricate       |*čaj* “tea”, *čöl* “desert”                    |Ch ch|
+|**D d**|/d/  |voiced dental                 |*dağ* “mountain”, *dil* “language”                      |D d  |
+|**F f**|/f/  |voiceless labiodental            |*fikir* “idea”, *fal* “fortune-telling”                 |F f  |
+|**G g**|/ɡ/  |voiced velar               |*gel* “come”, *göz* “eye”                     |G g  |
+|**Ğ ğ**|/ɣ/  |voiced velar fricative   |*dağ* “mountain”, *ağa* “elder”                   |Gh gh|
+|**H h**|/h/  |voiceless glottal               |*hava* “air”, *han* “khan”                    |H h  |
+|**X x**|/x/  |voiceless velar fricative    |*xalq* “people”, *xan* “khan”                     |Kh kh|
+|**Y y**|/j/  |palatal semivowel **“Y”**|*yol* ‘road’, *ay* “moon”                     |Y y  |
+|**J j**|/dʒ/ |voiced sibilant affricate      |*jan* “soul”, *jahan* “world”                     |J j  |
+|**Ž ž**|/ʒ/  |voiced sibilant fricative    |*žurnal* “magazine” (loanword)                    |Zh zh|
+|**K k**|/k/  |voiceless velar                |*kel* “come”, *köl* “lake”                    |K k  |
+|**Q q**|/q/  |voiceless uvular               |*qala* “fortress”, *qan* “blood”                |Q q  |
+|**L l**|/l~ɫ/|lateral (soft/hard)     |*lale* “tulip”, *el* “hand”                   |L l  |
+|**M m**|/m/  |nasal labial                 |*men* “I”, *mal* “property”                    |M m  |
+|**N n**|/n/  |nasal alveolar                 |*nan* “bread”, *ne* “what”                        |N n  |
+|**Ŋ ŋ**|/ŋ/  |velar nasal               |*köŋül* “soul”, *aŋ* “consciousness”                 |Ng ng|
+|**P p**|/p/  |voiceless labial                  |*pul* “money”, *pïčaq* “knife”                   |P p  |
+|**R r**|/r/  |trilled alveolar       |*yer* “place”, *yurt* “yurt”                    |R r  |
+|**S s**|/s/  |voiceless dental fricative      |*su* “water” (Turk.), *söz* “word”               |S s  |
+|**Š š**|/ʃ/  |voiceless sibilant                 |*šan* “glory”, *baš* “head”                   |Sh sh|
+|**T t**|/t/  |voiceless alveolar                  |*taš* “stone”, *til* “tongue”                    |T t  |
+|**V v**|/v/  |voiced labiodental           |*var* “to eat”, *vaqt* “time”                    |V v  |
+|**W w**|/w/  |labio-velar semivowel      |*watan* “homeland” (Turkmen), *taw* “mountain” (Kazakh)  |W w  |
+|**Z z**|/z/  |voiced dental fricative     |*yaz* “summer/write”, *söz* “word”                |Z z  |
