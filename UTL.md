@@ -701,3 +701,31 @@ In Turkish, Azerbaijani, Uzbek, Tatar, and Bashkir, vowel length is not phonemic
 > **Note on diphthongoids:** W in the diphthongs UW/ÜW is realized as a weak glide (diphthongoid), not as a full semivowel /w/ as at the beginning of a word (*waqït*). Kazakh *suw* sounds closer to [sʊ] with a slight voicing at the end. Y in the diphthongs IY sounds more distinct. The UTL transcription is phonological: the distinctive function (native/borrowed) takes precedence over precise phonetics.
 
 -----
+
+## UTL Language Profiles v1.15
+
+UTL is a unified alphabet consisting of 35 letters. Each language uses a **subset** of this alphabet along with its own specific features (diphthongs, long vowels, extended letters).
+
+### Oghuz Languages
+
+#### Turkish
+
+|Parameter            |Value                                                                                     |
+|--------------------|------------------------------------------- --------------------------------------------------|
+|Used vowels|A, E, I, Ï, O, Ö, U, Ü                                                                       |
+|Not used     |Ä (no /æ/), W (no /w/, V is used), C (no /ts/), Q (no /q/), X (no /x/), Ŋ (no /ŋ/)|
+|Diphthongs            |none                                                                                          |
+|Long vowels      |none                                                                                          |
+|Extended letters   |none                                                                                          |
+|Note          |The most “compact” profile — 29 letters out of 35                                                   |
+
+#### Azerbaijani
+
+|Parameter            |Value                                     |
+|------------------- -|---------------------------------------------|
+|Used vowels|A, E, I, Ï, O, Ö, U, Ü, Ä                    |
+|Not used     |W (V is used), C (no /ts/)             |
+|Diphthongs            |none                                          |
+|Long vowels      |none                                          |
+|Extended letters   |none                                          |
+|Note          |Ä=/æ/ (corresponds to Azerbaijani Ə), Q and X are active|
