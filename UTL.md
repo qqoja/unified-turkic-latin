@@ -52,7 +52,6 @@
 > 1. **Karon** instead of “hook” in the description of diacritics + technical footnote about Ĵ (circumflex U+0134).
 > 1. ASCII collision **Ng vs N+G** — documented in the description of ASCII mode.
 > 1. Clarified: **Kumyk** uses V (not W) — Oghuz influence.
-
 > 1. The notation **“(Kir.)”** has been removed from the Kazakh entry in the correspondence table.
 >    **Changes in v1.14 — J/Y reassignment, diphthongoids, apostrophe:**
 > 1. **Y=/j/, J=/dʒ/** — the marginal Ĵ has been removed; Y=/j/ matches CTA, Turkish, and all Turkic Latin alphabets; J=/dʒ/ matches the English association.
