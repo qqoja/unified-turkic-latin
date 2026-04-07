@@ -193,3 +193,47 @@ Diphthongs are written explicitly in UTL-O. The text is self-contained without a
 |Any context, monophthong|/ʊ/ |**U** |*bul* “this” (Kaz.)  |
 
 -----
+
+## Language Coverage: UTL and UTL-Extended
+
+### UTL (basic) — 16 languages
+
+Common Turkic languages of the three main branches. Mutual intelligibility is non-zero; phonemes are fully covered by the basic alphabet (35 letters) and the extended letters Ŧ/Đ/Ħ.
+
+#### Oghuz (southwestern) — 4 languages
+
+|Language           |Speakers|Script|OTS        |
+|---------------|--------|------------|---------- -|
+|Turkish       |~80 million |Latin    |✓          |
+|Azerbaijani|~30 million |Latin    |✓          |
+|Turkmen    |~7 million |Latin    |observer|
+|Gagauz     |~150,000|Latin    |—          |
+
+#### Kipchak (Northwestern) — 9 languages
+
+|Language                |Subgroup       |Speakers|Writing system   |OTS       |
+|--------------------|--------------- -|--------|---------------|----------|
+|Kazakh           |Nogai       |~13 million |transition to Latin|✓         |
+|Karakalpak      |Nogai       |~700,000|Latin script       |via Uzbek|
+|Nogai           |Nogai       |~90,000 |Cyrillic script      |—         |
+|Kyrgyz          |Kipchak-Polovtsian|~5 million  |Cyrillic script      |✓         |
+|Karachay-Balkar|Kipchak-Polovtsian|~300,000|Cyrillic      |—         |
+|Kumyk           |Kipchak-Polovtsian|~500,000|Cyrillic      |—         |
+|Tatar           |Volga      |~5 million  |Cyrillic      |—         |
+|Bashkir          |Volga      |~1.2 million|Cyrillic      |—         |
+|Crimean Tatar    |Kipchak-Oghuz  |~500,000|Latin       |—         |
+
+
+> *Note:* Kumyk, despite belonging to the Kipchak branch, is strongly influenced by Oghuz and uses V /v/ (not W /w/) for labial consonants—like Turkish and Azerbaijani.
+
+#### Karluk (Southeastern) — 2 languages
+
+|Language     |Speakers|Script      |OTS|
+|---------|--------|------------------|---|
+|Uzbek|~30 million |Latin script          |✓  |
+|Uyghur|~12 million |Arabic / Latin|—  |
+
+
+> **Total UTL:** ~186 million speakers, coverage: 35 basic letters + 3 extended (Ŧ, Đ, Ħ).
+
+-----
