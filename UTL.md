@@ -206,7 +206,7 @@ Common Turkic languages of the three main branches. Mutual intelligibility is no
 |---------------|--------|------------|---------- -|
 |Turkish       |~80 million |Latin    |✓          |
 |Azerbaijani|~30 million |Latin    |✓          |
-|Turkmen    |~7 million |Latin    |observer|
+|Turkmen    |~7 million  |Latin    |observer|
 |Gagauz     |~150,000|Latin    |—          |
 
 #### Kipchak (Northwestern) — 9 languages
