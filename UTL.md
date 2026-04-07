@@ -113,3 +113,31 @@ Dash (-)    = dental fricative:         Ŧ Đ  (extended)
 ```
 
 -----
+
+## UTL Diphthong System v1.15
+
+### Glides (semivowels)
+
+**Glide** (glide, semivowel) — a sound that “glides” from the position of one vowel to another. Glides are an intermediate class between vowels and consonants: in terms of articulation, they are close to vowels, but in terms of function, they behave like consonants — they do not form a syllable on their own, but serve the adjacent vowel.
+
+There are two glides in UTL:
+
+```
+Y /j/ — palatal glide: the tongue glides from/to the position of /i/
+W /w/ — labial glide: the lips glide from/to the position of /u/
+```
+
+### Symmetry of Kazakh Vowels in UTL
+
+Kazakh **I** and **U** are not simple vowels, but diphthongoids (vowel + glide). UTL makes this structure explicit:
+
+```
+І /ɪ/ → I  (pure vowel)     ↔  Ұ /ʊ/ → U  (pure vowel)
+Й /j/ → Y  (glide)              ↔  У̯ /w/ → W  (glide)
+И /ɪj/ → IY (vowel + glide)   ↔  У /ʊw/ → UW (vowel + glide)
+```
+
+Similarly for the front row: Ү /ʏw/ → **ÜW** (vowel Ü + glide W).
+
+> **Theoretical Basis (A. Baitursynov):** The founder of Kazakh grammar, A. Baitursynov, identified 5 basic vowels in the Kazakh language (A, O, Ұ, Ы, Е), 4 allophones (Ə, Ө, Ү, І), and 2 semivowels (У, Й). In this classification, **І** and **У** are not vowels but **semivowels** (diphthongoids). Pure vowels are **І** and **Ұ**. Equivalences: ə = a + e, ö = o + e, ü = u + e, i = y + e. The UTL system accurately reproduces this structure: I = I + Y, U = U + W, while I and U are written with a single letter (I and U).
+
