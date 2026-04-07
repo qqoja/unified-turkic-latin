@@ -141,3 +141,29 @@ Similarly for the front row: Ү /ʏw/ → **ÜW** (vowel Ü + glide W).
 
 > **Theoretical Basis (A. Baitursynov):** The founder of Kazakh grammar, A. Baitursynov, identified 5 basic vowels in the Kazakh language (A, O, Ұ, Ы, Е), 4 allophones (Ə, Ө, Ү, І), and 2 semivowels (У, Й). In this classification, **І** and **У** are not vowels but **semivowels** (diphthongoids). Pure vowels are **І** and **Ұ**. Equivalences: ə = a + e, ö = o + e, ü = u + e, i = y + e. The UTL system accurately reproduces this structure: I = I + Y, U = U + W, while I and U are written with a single letter (I and U).
 
+### Rule for converting Cyrillic to UTL (Kazakh)
+
+In native Kazakh words, И, У, and Ү are **always** diphthong-like. In loanwords, they are monophthongs. There are no exceptions:
+
+|Cyrillic|Native word|Loanword|
+|-------- -|------------|-------------|
+|І        |I (always)  |—            |
+|И        |**IY**      |I            |
+|Ы        |Ï (always)  |—            |
+|Ұ        |U (always)  |—            |
+|У        |**UW**      |U            |
+|Ү        |**ÜW**      |Ü            |
+
+Examples: *bit* “louse” → **biyt** (native, И=IY); *institute* → **institut** (loanword, И=I); *su* “water” → **suw** (native, U=UW); *autobus* → **avtobus** (loanword, U=U).
+
+### Historical precedents
+
+The UTL diphthong system is not an innovation—it has direct parallels in the history of the Turkic Latin alphabet:
+
+**The 1928 Alphabet (Baku, Unified Turkic):** In the Kazakh variant of the Latin alphabet adopted at the 1928 Baku Conference, the letter **v** denoted the semivowel У /w/, **y** — Ы /ɯ/, **i** — І /ɪ/. Principle: У is not a vowel but a semivowel, written as a separate consonant letter.
+
+**The 1938 Rule (Kazakh Latin script):** The Russian letter **ю** in loanwords was written as **и+у** (*iuвilei*, *soiuz*, *kaiuta*)—direct confirmation that И and У were treated as combinations, not monophthongs.
+
+**Kyrgyz Grammar (Batmanov, 1939):** The Kyrgyz language has 14 vowel phonemes—8 short (a, e, o, ɵ, ɨ, i, u, y) and 6 long (aa, ee, oo, ɵɵ, uu, yy) . Long vowels are written by doubling—UTL supports this principle. Kyrgyz short vowels are 3–5 times shorter than Russian ones, which explains the diphthong-like pronunciation.
+
+** Old Turkic (Yrk Bitig, ~10th century):** The runic script already distinguished back/front pairs: a/ä, ı/i, o/ö, u/ü—the foundation of the UTL vowel system. Garkavets’ transcription uses the symbols ŋ, ğ, š, ä, which correspond to UTL.
