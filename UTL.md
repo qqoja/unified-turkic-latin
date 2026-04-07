@@ -485,3 +485,29 @@ Front series:  E  I  Ö  Ü  Ä  →  suffix -de / -ler / -den / -li
 ```
 
 In diphthongs, harmony is determined by the **vowel component**: AW, UW = back; ÜW = front; IY = front.
+
+### 1a. Borrowings — The Final Vowel Rule
+
+In UTL, **no borrowing markers are used**. The text is written in its pure form. AI and native speakers automatically determine a word’s status using a three-step algorithm:
+
+**Step 1 — Checking Vowel Harmony**
+
+```
+bult      →  U                     →  only back vowels  →  native word
+institut  →  I · U · I             →  mixed rows →  loanword
+```
+
+**Step 2 — Checking the root structure**
+
+```
+bult       →  CVCC   →  Turkic structure ✓
+institut   →  -nst- cluster  →  loanword ✓
+```
+
+**Step 3 — Suffixation rule**
+The suffix is always determined by the **final vowel**:
+
+```
+bult       →  final U (back)  →  bultta, bulttar
+institut   →  final U (back)  →  institutta, instituttar
+```
