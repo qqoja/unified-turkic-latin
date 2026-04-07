@@ -347,3 +347,33 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 |**V v**|/v/  |voiced labiodental           |*var* “to eat”, *vaqt* “time”                    |V v  |
 |**W w**|/w/  |labio-velar semivowel      |*watan* “homeland” (Turkmen), *taw* “mountain” (Kazakh)  |W w  |
 |**Z z**|/z/  |voiced dental fricative     |*yaz* “summer/write”, *söz* “word”                |Z z  |
+
+-----
+
+### Extended Characters
+
+#### UTL — for languages in the base set
+
+|UTL    |IPA|Language      |Sound                      |ASCII|
+|-------|---|----------|---------------- ----------|-----|
+|**Ŧ ŧ**|/θ/|Bashkir|voiceless dental fricative |Th th|
+|**Đ đ**|/ð/|Bashkir|voiced dental fricative|Dh dh|
+|**Ħ ħ**|/ħ/|Uyghur |pharyngeal fricative  |Hh hh|
+
+#### UTL-Extended — for Siberian and isolated languages
+
+|UTL    |IPA |Sound                     |ASCII|
+|-------|----|---- ---------------------|-----|
+|**Ź ź**|/ðʲ/|voiceless dental fricative|Dy dy|
+|**Ĺ ĺ**|/lʲ/|palatalized L       |Ly ly|
+
+-----
+
+## Complete alphabetical order of UTL v1.15
+
+**A B C Č D E Ä F G Ğ H I Ï J K L M N Ŋ O Ö P Q R S Š T U Ü V W X Y Z Ž**
+
+*(35 basic + 3 extended UTL + 2 UTL-Extended)*
+
+-----
+
