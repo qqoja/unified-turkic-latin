@@ -295,3 +295,23 @@ Isolated branches of Turkic languages with zero or minimal mutual intelligibilit
 > Example: *kitap* + locative → *kitapta* (A-row) / *ev* + locative → *evde* (E-row)
 
 -----
+
+### Four Key Differences: I / Y / Y / U
+
+|Russian Sound|IPA|UTL    |Type                  |Examples                          |
+|------------|---|-------|-------------------- -|---------------------------------|
+|**И**       |/i/|**I i**|vowel, front    |*ip* “rope”, *bil* “know”     |
+|**Ы**       |/ɯ/|**Ï ï**|vowel, back      |*qïz* “girl”, *yïl* “year”     |
+|**Y**       |/j/|**Y y**|semivowel|*yol* “road”, *ay* “moon”|
+|**U**       |/u/|**U u**|back vowel|*bul* “this”, *un* “flour”         |
+
+
+> **For AI:** Y is always /j/ as in the Turkic *yol* or the German *ja*. J is always /dʒ/ as in the English *judge*. Ž is /ʒ/ as in *measure*.
+
+> **Uppercase letters are unambiguous:**
+> 
+> - **I** — always uppercase from **i** (/i/)
+> - **Ï** — always uppercase from **ï** (/ɯ/)
+> - The Turkish-i problem has been completely resolved.
+
+-----
